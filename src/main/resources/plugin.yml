@@ -1,5 +1,5 @@
-name: Alchemy
-version: 1.12
+name: ${project.name}
+version: ${project.version}
 author: bms_
 main: com.gmail.sharpcastle33.AspectAlchemy
 commands:

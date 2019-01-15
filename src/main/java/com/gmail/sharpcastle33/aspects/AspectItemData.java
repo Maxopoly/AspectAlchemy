@@ -13,7 +13,7 @@ public class AspectItemData {
 
 	public AspectItemData(String name, String displayName, Map<Aspect, Integer> aspects) {
 		this.configName = name;
-		this.displayName = displayName.replace('&', 'ง');
+		this.displayName = displayName.replace('&', 'ยง');
 		this.aspects = aspects;
 	}
 

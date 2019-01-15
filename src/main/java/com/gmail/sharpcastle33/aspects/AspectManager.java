@@ -3,10 +3,8 @@ package com.gmail.sharpcastle33.aspects;
 import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.List;
 
 import org.bukkit.Bukkit;
-import org.bukkit.Material;
 import org.bukkit.configuration.ConfigurationSection;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
